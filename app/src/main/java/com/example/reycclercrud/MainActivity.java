@@ -85,6 +85,7 @@ String imageUri;
       });
 
     }
+    //Code of GallaryImage
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
