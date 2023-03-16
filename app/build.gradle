@@ -63,5 +63,10 @@ dependencies {
      //CircleImage
         implementation 'de.hdodenhof:circleimageview:3.1.0'
 
+    //Carsoul
+    implementation 'org.imaginativeworld.whynotimagecarousel:whynotimagecarousel:2.1.0'
+   //DialogPlus
+    implementation 'com.orhanobut:dialogplus:1.11@aar'
+
 
 }
